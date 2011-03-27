@@ -3,11 +3,16 @@ h1. Rezepte aus der ChaosWG
 Eine Rezeptesammlung, lizensiert unter einer Creative Commons Lizenz.
 Weitergabe und Forks sind ausdrücklich erwünscht.
 
+h2. Format
+
+**Textile**
+Alle Rezepte sind im "Textile-Format":http://www.textism.com/tools/textile/ angelegt. Dieses Format kann auf Github direkt betrachtet werden.
+
 h2. Lizensierung
 
 **CC BY-NC-SA 3.0 Germany**
 Dieses Werk ist unter einem Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Germany
 Lizenzvertrag lizenziert. Um die Lizenz anzusehen, gehen Sie bitte zu
-http://creativecommons.org/licenses/by-nc-sa/3.0/de/ oder schicken Sie einen Brief an Creative
+"http://creativecommons.org/licenses/by-nc-sa/3.0/de/":http://creativecommons.org/licenses/by-nc-sa/3.0/de/ oder schicken Sie einen Brief an Creative
 Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.
 
