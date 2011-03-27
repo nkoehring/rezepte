@@ -10,7 +10,7 @@ Alle Rezepte sind im "Textile-Format":http://www.textism.com/tools/textile/ ange
 
 h2. Lizensierung
 
-**CC BY-NC-SA 3.0 Germany**
+**CC BY-NC-SA 3.0 Germany** wenn nicht anders angegeben.
 Dieses Werk ist unter einem Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Germany
 Lizenzvertrag lizenziert. Um die Lizenz anzusehen, gehen Sie bitte zu
 "http://creativecommons.org/licenses/by-nc-sa/3.0/de/":http://creativecommons.org/licenses/by-nc-sa/3.0/de/ oder schicken Sie einen Brief an Creative
