@@ -1,0 +1,33 @@
+h1. Gemüsepfanne mit Falafel und dazu Schupfnudeln
+
+Es gab es eine Gemüsepfanne, dazu selbstgemachte Falafel und (nicht selbstgemachte)
+Schupfnudeln. Das Falafel-Rezept findest du irgendwann mal bei "Ertas Rezepten":https://github.com/zwergerta/Rezepte/tree/master/Vegetarisch
+Hier also nur die Gemüsepfanne, da fertige Schupfnudeln ja nicht besonders spannend sind.
+Mengenangaben unter der Annahme, das es dazu noch sättigendes Beiwerk wie eben Schupfnudeln gibt.
+
+
+h2. Zutaten
+
+_für ca vier Portionen_
+
+* 3-4 Karotten
+* Weißkohl (ca drei Blätter davon)
+* 1 Zucchini
+* 1 Zwiebel
+* 1-2 Lauchzwiebeln
+* Knoblauch nach Wunsch (wir hatten drei Zehen)
+* optional ein wenig Knoblauchöl (zB von eingelegtem Knoblauch)
+* Sojasauce
+* Petersilie
+
+
+h2. Zubereitung
+
+# Karotten, Weißkohl, Zucchini, Zwiebel und Knoblauch klein schneiden und mit etwas Olivenöl dünsten,
+# Knoblauchöl und kleingeschnittenen Lauch dazu geben,
+# alles ordentlich "durchdünsten"
+# kurz vor Schluss einen kräftigen Schluck Sojasauce darübergeben und ordentlich verteilen
+# mit Petersilie servieren
+
+Ich habe keinerlei Salz, Pfeffer oder andere "typische" Gewürze, sowie keinerlei Brühe verwendet.
+
